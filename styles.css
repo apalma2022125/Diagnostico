@@ -1,0 +1,25 @@
+body {
+    font-family: 'Arial', sans-serif;
+    text-align: center;
+    margin: 50px;
+}
+
+#hangman-container {
+    max-width: 400px;
+    margin: 0 auto;
+}
+
+#word-container {
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+#attempts-container {
+    margin-bottom: 20px;
+    font-size: 18px;
+}
+
+#letters-container button {
+    margin: 5px;
+    font-size: 18px;
+}
